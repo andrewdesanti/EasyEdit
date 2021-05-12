@@ -14,8 +14,6 @@ The program is a MATLAB App, an interactive application built within MATLAB that
 ### How To Use It, How Does It Work?
 Running EasyEdit of course requires MATLAB! Once pathed into your MATLAB enviroment, it should be as simple as running the EasyEdit.mlapp by double-clicking it from MATLAB's built in file explorer to open it in App Designer and pressing "Run". From here, the GUI enviroment can be seen in the "Design View" tab, and the logic for the GUI componants can be viewed from the "Code View" tab. 
 
-Alternatively, included is a zip folder. Contained is the default MATLAB splash art, program .exe, and a MATLAB generated .txt readme. I understand that downloading a random .exe from GitHub is scary, but if you don't have MATLAB installed and up-to-date, you will not be able to run the program. I also want you to be able to see the raw files if you'd like, so the .mlapp is there if you have the facilities for it.
-
 Once running, a .png or .jpg file can be imported by typing the file name (Including the Extension!) into the "File Import Name:" box and pressing the "Import The Below Image" button. Assuming the file is contained within the same directory as EasyEdit.mlapp, is spelled correctly, and is a valid format, it should appear within the "Current State of The Image:" grid.  
 
 Every function essentially works the same. With either the press of a button or move of a slider, the correspondng function is ran and the outcome is displayed on the "Current State of The Image:" grid. To apply the change, press "Apply Changes", to cancel, press "Cancel". Once applied, the function cannot be undone within the editor, however, the photo is NOT saved!
