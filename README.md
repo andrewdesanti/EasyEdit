@@ -1,5 +1,5 @@
 # EasyEdit
-## *The Easiest Picture Editing Tool*
+## *The Easiest Photo Editing Tool*
 ### What Is It?
 EasyEdit is Andrew DeSanti and Joshua Hornila's final project for CPE462, Introduction to Image Processing and Coding, for the Spring 2021 semester at Stevens Institute of Technology.
 
